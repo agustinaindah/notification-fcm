@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan Fitur</string>
+
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+
+</resources>

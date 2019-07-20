@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138986926494",
+    "firebase_url": "https://coba-fcm-8cb56.firebaseio.com",
+    "project_id": "coba-fcm-8cb56",
+    "storage_bucket": "coba-fcm-8cb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138986926494:android:25a3240838681a69",
+        "android_client_info": {
+          "package_name": "com.cobafcm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138986926494-sjklps6sa0eq1hl5mn8ouhe76dq60p0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WbXwSWXIfkyt5aFQYBu1bJctUZnyKNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
